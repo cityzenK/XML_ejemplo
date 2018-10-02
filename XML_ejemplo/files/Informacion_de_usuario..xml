@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<user_info>
+  <title>Informacion de usuario.</title>
+  <totalRows>1</totalRows>
+  <rows>
+    <user>
+      <estado>ok</estado>
+      <nombre>Carlos</nombre>
+      <apellido>Mazariegos</apellido>
+      <edad>21</edad>
+    </user>
+  </rows>
+</user_info>
